@@ -2,7 +2,7 @@
 This repo containt an example how to create TF remote state with  TF "[null_resource](https://www.terraform.io/docs/provisioners/null_resource.html)" and GitHub repo:
 
 ```
-https://mermaidjs.github.io/mermaid-live-editor/#/view/eyJjb2RlIjoiZ3JhcGggTFJcbkFbKi50Zl0gLS0-IEIodGVycmFmb3JtLnRmc3RhdGUpXG5CIC0tPiBDe1RGRX0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ
+![alt text](https://mermaidjs.github.io/mermaid-live-editor/#/view/eyJjb2RlIjoiZ3JhcGggTFJcbkFbKi50Zl0gLS0-IEIodGVycmFmb3JtLnRmc3RhdGUpXG5CIC0tPiBDe1RGRX0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
 ```
 1.  Fork the repo and clone it tou your environment.
 2. Open "main.tf" and delete following rows:
