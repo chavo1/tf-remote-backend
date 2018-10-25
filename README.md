@@ -1,5 +1,5 @@
 # Terraform Atlas backend
-This repo containt an example how to create TF remote state with  TF "[null_resource](https://www.terraform.io/docs/provisioners/null_resource.html)" and GitHub repo:
+This repo containt an example how to create TF remote state with  TF "[null_resource](https://www.terraform.io/docs/provisioners/null_resource.html)".
 
 1.  Fork the repo and clone it tou your environment.
 2. Open "main.tf" and delete following rows:
