@@ -24,3 +24,5 @@ terraform fmt
 terraform init
 ```
 7. Now you will be asking to provide a TFE token which can be genarated under your TFE User Settings --> [Tokens](https://app.terraform.io/app/settings/tokens). Paste it and confirm with "yes".
+
+More about Terraform Remote State can be found [HERE](https://www.terraform.io/docs/state/remote.html) 
