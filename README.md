@@ -1,7 +1,7 @@
 # Terraform Atlas backend
 This repo containt an example how to create TF remote state with  TF "[null_resource](https://www.terraform.io/docs/provisioners/null_resource.html)".
 
-1.  Fork the repo and clone it tou your environment.
+1. Fork the repo and clone it to your environment.
 2. Open "main.tf" and delete following rows:
 ```
 terraform {
@@ -14,8 +14,13 @@ name  =  "chavo4/tf-remote-backend"
 ```
 terraform fmt
 terraform init
+teraform apply
 ```
 4. Create a new workspace in [TFE](https://app.terraform.io) under your Org.
-5. Open "main.tf" and add again deleted rows from step 2 with needed organization in my example it is "chavo4".
-6. Save and repeat step 3.
+5. Open "main.tf" and add again deleted rows from step 2 with needed organization name and workspace - in my example the org is "chavo4".
+6. Save and execute:
+```
+terraform fmt
+terraform init
+```
 7. Now you will be asking to provide a TFE token which can be genarate under your User Settings --> [Tokens](https://app.terraform.io/app/settings/tokens). Paste it and confirm with "yes".
