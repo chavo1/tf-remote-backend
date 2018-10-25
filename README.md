@@ -23,4 +23,4 @@ teraform apply
 terraform fmt
 terraform init
 ```
-7. Now you will be asking to provide a TFE token which can be genarate under your User Settings --> [Tokens](https://app.terraform.io/app/settings/tokens). Paste it and confirm with "yes".
+7. Now you will be asking to provide a TFE token which can be genarate under your TFE User Settings --> [Tokens](https://app.terraform.io/app/settings/tokens). Paste it and confirm with "yes".
