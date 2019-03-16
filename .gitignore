@@ -1,2 +1,6 @@
 .terraform/
 terraform.tfstate*
+tf11_remote_state/.terraform/
+tf12_remote_state/.terraform/
+tf11_remote_state/terraform.tfstate*
+tf12_remote_state/terraform.tfstate*
