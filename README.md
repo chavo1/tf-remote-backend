@@ -41,6 +41,7 @@ teraform apply
 ```
 terraform fmt
 terraform init
+teraform apply
 ```
 7. Now you will be asking to provide a TFE token which can be generated under your TFE User Settings --> [Tokens](https://app.terraform.io/app/settings/tokens). Paste it and confirm with "yes" or you can export the token:
 
