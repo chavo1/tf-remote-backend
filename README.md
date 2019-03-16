@@ -45,6 +45,6 @@ teraform apply
 ```
 7. Now you will be asking to provide a TFE token which can be generated under your TFE User Settings --> [Tokens](https://app.terraform.io/app/settings/tokens). Paste it and confirm with "yes" or you can export the token:
 
-export ATLAS_TOKEN=<Your Atlas Token>
+export ATLAS_TOKEN= <Your Atlas Token>
 
 More about Terraform Remote State can be found [HERE](https://www.terraform.io/docs/state/remote.html) 
