@@ -9,7 +9,7 @@ The providers for [Terraform 0.12](https://www.hashicorp.com/blog/terraform-0-1-
 1. Fork the repo and clone it to your environment.
 ```
 git clone https://github.com/chavo1/tf-remote-backend.git
-cd tf-remote-backend/tf12_remote_state
+cd tf-remote-backend/tf11_remote_state
 ```
 2. Open "main.tf" and delete following rows:
 ```
